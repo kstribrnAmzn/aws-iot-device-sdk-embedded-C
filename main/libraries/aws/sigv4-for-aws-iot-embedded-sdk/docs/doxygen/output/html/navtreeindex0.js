@@ -1,9 +1,10 @@
 var NAVTREEINDEX0 =
 {
 "group__sigv4__canonical__flags.html":[4,2],
-"group__sigv4__canonical__flags.html#ga00b06a304245f49ac6084734046a3cfb":[4,2,4],
+"group__sigv4__canonical__flags.html#ga00b06a304245f49ac6084734046a3cfb":[4,2,5],
 "group__sigv4__canonical__flags.html#ga16fa9ad1cc53594a061985c243c520b9":[4,2,1],
 "group__sigv4__canonical__flags.html#ga65f1081bc8e969ce7bc726d5bc1c5f7b":[4,2,0],
+"group__sigv4__canonical__flags.html#ga7068c988dac367ad00aaed06d5ae0611":[4,2,4],
 "group__sigv4__canonical__flags.html#ga9e9136345f456eb4c76bca582a88331f":[4,2,2],
 "group__sigv4__canonical__flags.html#gaedd7da067d42980597b62b0823491189":[4,2,3],
 "group__sigv4__constants.html":[4,3],
@@ -38,6 +39,7 @@ var NAVTREEINDEX0 =
 "modules.html":[4],
 "pages.html":[],
 "sig_v4_aws_iot_date_to_iso8601_function.html":[2,1],
+"sig_v4_encode_u_r_i_function.html":[2,2],
 "sig_v4_generate_h_t_t_p_authorization_function.html":[2,0],
 "sigv4_config.html":[1],
 "sigv4_config.html#SIGV4_DO_NOT_USE_CUSTOM_CONFIG":[1,0],
